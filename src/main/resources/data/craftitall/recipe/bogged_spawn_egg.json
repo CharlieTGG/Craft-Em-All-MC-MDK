@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "E": {
+      "item": "minecraft:egg"
+    },
+    "M": {
+      "item": "minecraft:moss_carpet"
+    },
+    "B": {
+      "item": "minecraft:bone"
+    }
+  },
+  "pattern": [
+    "MBM",
+    "BEB",
+    "MBM"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:bogged_spawn_egg"
+  }
+}

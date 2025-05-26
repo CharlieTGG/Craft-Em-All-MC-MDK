@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "E": {
+      "item": "minecraft:egg"
+    },
+    "R": {
+      "item": "minecraft:breeze_rod"
+    },
+    "W": {
+      "item": "minecraft:wind_charge"
+    }
+  },
+  "pattern": [
+    "RWR",
+    "WEW",
+    "RWR"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:breeze_spawn_egg"
+  }
+}

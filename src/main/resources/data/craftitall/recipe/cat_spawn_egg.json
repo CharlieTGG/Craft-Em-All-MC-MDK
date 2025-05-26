@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "E": {
+      "item": "minecraft:egg"
+    },
+    "S": {
+      "item": "minecraft:string"
+    },
+    "T": {
+      "item": "minecraft:tropical_fish"
+    }
+  },
+  "pattern": [
+    "STS",
+    "TET",
+    "STS"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:cat_spawn_egg"
+  }
+}

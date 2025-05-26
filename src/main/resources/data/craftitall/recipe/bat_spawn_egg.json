@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "E": {
+      "item": "minecraft:egg"
+    },
+    "C": {
+      "item": "minecraft:coal"
+    },
+    "F": {
+      "item": "minecraft:feather"
+    }
+  },
+  "pattern": [
+    "CFC",
+    "FEF",
+    "CFC"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:bat_spawn_egg"
+  }
+}

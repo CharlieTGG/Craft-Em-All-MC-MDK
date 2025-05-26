@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "E": {
+      "item": "minecraft:egg"
+    },
+    "W": {
+      "item": "minecraft:wolf_armor"
+    },
+    "S": {
+      "item": "minecraft:armadillo_scute"
+    }
+  },
+  "pattern": [
+    "SWS",
+    "WEW",
+    "SWS"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:armadillo_spawn_egg"
+  }
+}

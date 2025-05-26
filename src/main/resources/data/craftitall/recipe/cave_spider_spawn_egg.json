@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "E": {
+      "item": "minecraft:egg"
+    },
+    "S": {
+      "item": "minecraft:string"
+    },
+    "F": {
+      "item": "minecraft:fermented_spider_eye"
+    }
+  },
+  "pattern": [
+    "SFS",
+    "FEF",
+    "SFS"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:cave_spider_spawn_egg"
+  }
+}
