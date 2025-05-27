@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "I": {
+      "item": "minecraft:iron_bars"
+    },
+    "A": {
+      "item": "minecraft:amethyst_shard"
+    }
+  },
+  "pattern": [
+    "III",
+    "IAI",
+    "III"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:spawner"
+  }
+}

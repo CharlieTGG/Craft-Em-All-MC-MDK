@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "minecraft:ominous_bottle"
+    },
+    "K": {
+      "item": "minecraft:trial_key"
+    }
+  },
+  "pattern": [
+    " B ",
+    "BKB",
+    " B "
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:ominous_trial_key"
+  }
+}
