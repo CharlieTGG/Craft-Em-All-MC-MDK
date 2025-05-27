@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "E": {
+      "item": "minecraft:egg"
+    },
+    "D": {
+      "item": "minecraft:snow_ball"
+    },
+    "B": {
+      "item": "minecraft:bone"
+    }
+  },
+  "pattern": [
+    "DBD",
+    "BEB",
+    "DBD"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:stray_spawn_egg"
+  }
+}

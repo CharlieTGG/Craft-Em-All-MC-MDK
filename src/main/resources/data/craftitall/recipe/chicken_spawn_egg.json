@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "E": {
+      "item": "minecraft:egg"
+    },
+    "F": {
+      "item": "minecraft:feather"
+    },
+    "C": {
+      "item": "minecraft:chicken"
+    }
+  },
+  "pattern": [
+    "FCF",
+    "CEC",
+    "FCF"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:chicken_spawn_egg"
+  }
+}

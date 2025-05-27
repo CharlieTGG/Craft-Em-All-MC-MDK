@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "E": {
+      "item": "minecraft:egg"
+    },
+    "G": {
+      "item": "minecraft:ghast_tear"
+    },
+    "I": {
+      "item": "minecraft:glow_ink_sac"
+    }
+  },
+  "pattern": [
+    "GIG",
+    "IEI",
+    "GIG"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:glow_squid_spawn_egg"
+  }
+}

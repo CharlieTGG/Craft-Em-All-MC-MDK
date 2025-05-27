@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "E": {
+      "item": "minecraft:egg"
+    },
+    "D": {
+      "item": "minecraft:rabbit_foot"
+    },
+    "B": {
+      "item": "minecraft:rabbit"
+    }
+  },
+  "pattern": [
+    "DBD",
+    "BEB",
+    "DBD"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:rabbit_spawn_egg"
+  }
+}

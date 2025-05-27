@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "E": {
+      "item": "minecraft:villager_spawn_egg"
+    },
+    "D": {
+      "item": "minecraft:rotten_flesh"
+    },
+    "B": {
+      "item": "minecraft:zombie_spawn_egg"
+    }
+  },
+  "pattern": [
+    "DBD",
+    "BEB",
+    "DBD"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:zombie_villager_spawn_egg"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "E": {
+      "item": "minecraft:egg"
+    },
+    "S": {
+      "item": "minecraft:water_bottle"
+    },
+    "H": {
+      "item": "minecraft:heart_of_the_sea"
+    }
+  },
+  "pattern": [
+    "SHS",
+    "HEH",
+    "SHS"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:guardian_spawn_egg"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "E": {
+      "item": "minecraft:egg"
+    },
+    "D": {
+      "item": "minecraft:bamboo"
+    },
+    "B": {
+      "item": "minecraft:white_dye"
+    }
+  },
+  "pattern": [
+    "DBD",
+    "BEB",
+    "DBD"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:panda_spawn_egg"
+  }
+}

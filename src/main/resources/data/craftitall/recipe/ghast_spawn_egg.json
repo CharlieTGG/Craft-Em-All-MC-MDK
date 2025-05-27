@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "E": {
+      "item": "minecraft:egg"
+    },
+    "G": {
+      "item": "minecraft:ghast_tear"
+    },
+    "F": {
+      "item": "minecraft:fireball"
+    }
+  },
+  "pattern": [
+    "GFG",
+    "FEF",
+    "GFG"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:ghast_spawn_egg"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "E": {
+      "item": "minecraft:villager_spawn_egg"
+    },
+    "D": {
+      "item": "minecraft:black_dye"
+    },
+    "B": {
+      "item": "minecraft:grey_dye"
+    }
+  },
+  "pattern": [
+    "DBD",
+    "BEB",
+    "DBD"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:pillager_spawn_egg"
+  }
+}

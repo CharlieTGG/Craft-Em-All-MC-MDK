@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "E": {
+      "item": "minecraft:egg"
+    },
+    "B": {
+      "item": "minecraft:salmon_bucket"
+    }
+  },
+  "pattern": [
+    "E",
+    "B"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:salmon_spawn_egg"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "E": {
+      "item": "minecraft:egg"
+    },
+    "S": {
+      "item": "minecraft:sea_lantern"
+    },
+    "K": {
+      "item": "minecraft:kelp"
+    }
+  },
+  "pattern": [
+    "SKS",
+    "KEK",
+    "SKS"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:dolphin_spawn_egg"
+  }
+}

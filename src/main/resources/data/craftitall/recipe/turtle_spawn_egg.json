@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:turtle_egg"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:turtle_spawn_egg"
+  }
+}

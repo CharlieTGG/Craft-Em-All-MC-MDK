@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "E": {
+      "item": "minecraft:sculk_shrieker"
+    },
+    "D": {
+      "item": "minecraft:note_block"
+    },
+    "B": {
+      "item": "minecraft:egg"
+    }
+  },
+  "pattern": [
+    "DBD",
+    "BEB",
+    "DBD"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:warden_spawn_egg"
+  }
+}

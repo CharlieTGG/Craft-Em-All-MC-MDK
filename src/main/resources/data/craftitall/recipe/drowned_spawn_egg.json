@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "E": {
+      "item": "minecraft:egg"
+    },
+    "N": {
+      "item": "minecraft:nautilus_shell"
+    },
+    "F": {
+      "item": "minecraft:rotten_flesh"
+    }
+  },
+  "pattern": [
+    "NFN",
+    "FEF",
+    "NFN"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:drowned_spawn_egg"
+  }
+}

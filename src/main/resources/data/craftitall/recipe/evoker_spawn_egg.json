@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "E": {
+      "item": "minecraft:pillager_spawn_egg"
+    },
+    "O": {
+      "item": "minecraft:ominous_bottle"
+    },
+    "T": {
+      "item": "minecraft:totem_of_undying"
+    }
+  },
+  "pattern": [
+    "OTO",
+    "TET",
+    "OTO"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:evoker_spawn_egg"
+  }
+}

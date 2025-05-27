@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "E": {
+      "item": "minecraft:egg"
+    },
+    "M": {
+      "item": "minecraft:endermite_spawn_egg"
+    },
+    "P": {
+      "item": "minecraft:ender_pearl"
+    }
+  },
+  "pattern": [
+    "MPM",
+    "PEP",
+    "MPM"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:enderman_spawn_egg"
+  }
+}

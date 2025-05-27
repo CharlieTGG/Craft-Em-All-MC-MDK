@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "E": {
+      "item": "minecraft:egg"
+    },
+    "G": {
+      "item": "minecraft:gunpowder"
+    },
+    "T": {
+      "item": "minecraft:tnt"
+    }
+  },
+  "pattern": [
+    "GTG",
+    "TET",
+    "GTG"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:creeper_spawn_egg"
+  }
+}
