@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "B": {
+      "item": "minecraft:breeze_rod"
+    },
+    "C": {
+      "item": "minecraft:copper_ingot"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "H": {
+      "item": "minecraft:chain"
+    }
+  },
+  "pattern": [
+    "BCB",
+    "BIB",
+    "BHB"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:trial_key"
+  }
+}
