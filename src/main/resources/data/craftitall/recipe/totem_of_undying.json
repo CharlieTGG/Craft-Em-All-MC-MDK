@@ -3,20 +3,17 @@
   "category": "equipment",
   "key": {
     "G": {
-      "item": "minecraft:gold_ingot"
+      "item": "minecraft:gold_block"
     },
     "D": {
       "item": "minecraft:diamond_block"
     },
     "E": {
       "item": "minecraft:emerald"
-    },
-    "C": {
-      "item": "minecraft:copper_block"
     }
   },
   "pattern": [
-    "ECE",
+    "EGE",
     "DGD",
     " G "
   ],

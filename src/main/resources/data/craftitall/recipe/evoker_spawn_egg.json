@@ -6,10 +6,10 @@
       "item": "minecraft:pillager_spawn_egg"
     },
     "O": {
-      "item": "minecraft:ominous_bottle"
+      "item": "minecraft:emerald"
     },
     "T": {
-      "item": "minecraft:totem_of_undying"
+      "item": "minecraft:ominous_bottle"
     }
   },
   "pattern": [

@@ -6,10 +6,10 @@
       "item": "minecraft:egg"
     },
     "S": {
-      "item": "minecraft:water_bottle"
+      "item": "minecraft:ghast_tear"
     },
     "H": {
-      "item": "minecraft:heart_of_the_sea"
+      "item": "minecraft:seagrass"
     }
   },
   "pattern": [
