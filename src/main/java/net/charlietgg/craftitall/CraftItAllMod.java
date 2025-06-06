@@ -1,5 +1,8 @@
 package net.charlietgg.craftitall;
 
+import net.minecraft.world.item.CreativeModeTab;
+import net.minecraft.world.item.CreativeModeTabs;
+import net.minecraft.world.item.Items;
 import org.slf4j.Logger;
 
 import com.mojang.logging.LogUtils;
@@ -53,7 +56,9 @@ public class CraftItAllMod
     // Add the example block item to the building blocks tab
     private void addCreative(BuildCreativeModeTabContentsEvent event)
     {
-
+        if (event.getTabKey() == CreativeModeTabs.TOOLS_AND_UTILITIES) {
+            event.accept(Items.BUNDLE);
+        }
     }
 
     // You can use SubscribeEvent and let the Event Bus discover methods to call
